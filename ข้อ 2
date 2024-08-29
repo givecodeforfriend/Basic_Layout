@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <!-- 1. ตั้งค่า character encoding เป็น "utf-8" -->
+        <meta charset="utf-8">
+        <!-- 2. ตั้งชื่อ title เป็น "Codekit" -->
+        <title>Codekit</title>
+        <!-- 3. ลิ้งค์ "style.css" ไปที่ index.html -->
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+    </body>
+
+</html>
+
+-----
+
+/* 4. กำหนด font-family ของ tag <body> เป็น "Avenir Next" */
+body {
+    font-family: "Avenir Next";
+}
