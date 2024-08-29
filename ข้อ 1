@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+    </body>
+</html>
+
+----
+
+/* 4. กำหนด font-family ของ tag <body> เป็น "Avenir Next" */
+body {
+    font-family: "Avenir Next";
+}
